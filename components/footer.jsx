@@ -84,7 +84,7 @@ export function Footer() {
             © {new Date().getFullYear()} imArslansaas. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground">
-            Crafted with precision in Pakistan 🇵🇰
+           Built by imArslanSaaS.com
           </p>
         </div>
       </div>
